@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod ugo+rwx 6-multiple_permissions
