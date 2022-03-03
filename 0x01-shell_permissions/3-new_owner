@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty:root file
+chown betty hello
